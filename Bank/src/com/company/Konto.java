@@ -26,6 +26,8 @@ public class Konto {
         return saldo;
     }
 
+ /*todo. kan du sikre at man ikke kan vælge mere ned hvad der står på saldoen.*/
+    /*todo. kan du sikre at man ikke kan hæve et negativt beløb.*/
 
     public int hæv(int beløb) {
 
@@ -35,7 +37,7 @@ public class Konto {
 
     }
 
-
+/*todo. kan du sikre at man ikke kan indsætte et negativt .*/
     public int indsæt(int beløb) {
 
         saldo = saldo + beløb;
