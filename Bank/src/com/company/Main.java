@@ -7,7 +7,7 @@ public class Main {
 
 
     /*Her definerer vi vores datastruktor, så vi kan nå den over det hele. Bed lige din lærer om at forklare lidt om
-     * arrayLists*/
+     arrayLists*/
     private static ArrayList<Konto> kontoArrayList = new ArrayList<>();
 
 
@@ -26,7 +26,7 @@ public class Main {
         // funktionerne i whileløkken !
 
 
-//  Du kan evt udkommentere hele whileløkken så den ikke forstyrre dig i starten.
+
 
 
 
